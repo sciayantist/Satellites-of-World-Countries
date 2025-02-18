@@ -2,23 +2,23 @@
 Satellites of World-Countries Data Analysis Python Project - Career Foundry
 
 * Who is it for?
-The client is Celestial Innovatech, a startup company interested in gaining insights into the satellite industry.
+**  The client is Celestial Innovatech, a startup company interested in gaining insights into the satellite industry.
 
 
 * Why is it being built?
-The client's goal is to understand the market better to drive innovation in the Low Earth Orbit (LEO) sector. Their new technology focuses on developing satellites with high capacity, reduced launch mass, and increased longevity.
+**  The client's goal is to understand the market better to drive innovation in the Low Earth Orbit (LEO) sector. Their new technology focuses on developing satellites with high capacity, reduced launch mass, and increased longevity.
 
 
 * What will it consist of?
-The storyboard will provide detailed information about satellites in LEO, emphasizing their launch mass and expected lifespan.
+**  The storyboard will provide detailed information about satellites in LEO, emphasizing their launch mass and expected lifespan.
 
 
 * When will it be used?
-It will be utilized as part of the innovation plan and strategy development. The company plans to use this information to make informed decisions about designing lightweight satellites with extended lifespans, adaptable across different orbit classes.
+**  It will be utilized as part of the innovation plan and strategy development. The company plans to use this information to make informed decisions about designing lightweight satellites with extended lifespans, adaptable across different orbit classes.
 
 
 * Where will it be hosted?
-Github and Tableau Public
+**  Github and Tableau Public
 
 
 ## Data
