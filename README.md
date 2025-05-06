@@ -14,7 +14,7 @@ Satellites of World-Countries Data Analysis Python Project - Career Foundry
 
 
 ### When will it be used?
-* It will be utilized as part of the innovation plan and strategy development. The company plans to use this information to make informed decisions about designing lightweight satellites with extended lifespans, adaptable across different orbit classes.
+* The data will inform the company's innovation plan and strategy development. The company aims to leverage these insights to make informed decisions about building lightweight, long-lasting satellites that demonstrate resilience in LEO class.
 
 
 ### Where will it be hosted?
